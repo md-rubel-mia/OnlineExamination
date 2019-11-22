@@ -1,0 +1,246 @@
+C program start executing from ? 
+here()
+main()
+start()
+begin()
+2
+In c programming ++ is __ operator ? 
+increment 
+decrement 
+assigning 
+overloading
+1
+In c programming array can be ? 
+single
+double 
+multidimensional
+all
+1
+In c programming uninitialized variable may have ?
+garvage
+null
+string
+value
+1
+What are the types of linkages ?
+Interna
+ExternalInternalandNone
+Externaland None
+Internal
+2	
+Which of the following special symbol allowed in a variable name ?
+asterisk
+pipeline
+hyphen
+underscore
+4	
+How would you round off a value from 1.66 to 2.0?
+ceil(1.66)
+floor(1.66)
+roundup(1.66)
+roundto(1.66)
+1	
+By default a real number is treated as a ? 
+float
+double
+long double
+far double
+2	
+Is the following statement a declaration or definition extern int i ? 
+Declaration
+Definition
+Function
+Error
+1
+When we mention the prototype of a function ?
+Defining
+Declaring
+Prototyping
+Calling
+2
+Which header file should be included to use functions like malloc() and calloc()?
+memory.h
+stdlib.h
+string.h
+dos.h
+2
+What function should be used to free the memory allocated by calloc() ?
+dealloc();
+malloc(variable_name,0)
+free();
+memalloc(variable_name,0)
+3
+Specify the 2 library functions to dynamically allocate memory ?
+malloc()andmemalloc()
+alloc()andmemalloc()
+malloc()andcalloc()
+memalloc()andfaralloc()
+3	
+Input/output function prototypes and macros are defined in which header file?
+conio.h
+stdlib.h
+stdio.h
+dos.h
+3	
+Which standard library function will you use to find the last occurance of a character in a string in C?
+strnchar()
+strchar()
+strrchar()
+strrchr()
+2
+What is stderr ?
+standarderror
+standarderrortypes
+standarderrorstreams
+standarderrordefinitions
+3
+What will you do to treat the constant 3.14 as a long double?
+3.14LD
+3.14L
+3.14DL
+3.14LF
+2
+The binary equivalent of 5.375 is ?
+101.101110111
+101.011
+101011
+None of above
+2
+What will you do to treat the constant 3.14 as a float?
+float(3.14f)
+3.14f
+f(3.14)
+(f)(3.14)
+2
+Which of the following is not logical operator?
+&
+&&
+||
+!
+1
+Which of the following cannot be checked in a switch-case statement?
+Character
+Integer
+Float
+enum
+3	
+The keyword used to transfer control from a function back to the calling function is ?
+switch
+goto
+goback
+return
+4
+which header file is the NULL macro defined?
+stdio.h
+stddef.h
+stdio.handstddef.h
+math.h
+3
+If a variable is a pointer to a structure, then which of the following operator is used to access data members of the structure through the pointer variable?
+.
+&
+*
+->
+4
+What would be the equivalent pointer expression for referring the array element a[i][j][k][l] ?
+((((a+i)+j)+k)+l)
+*(*(*(*(a+i)+j)+k)+l)
+(((a+i)+j)+k+l)
+((a+i)+j+k+l)
+2
+Which of the following function sets first n characters of a string to a given character?
+strinit()
+strnset()
+strset()
+strcset()
+2	
+If the two strings are identical, then strcmp() function returns ? 
+-1
+1
+0
+Yes
+3 	
+How will you print \n on the screen?
+printf("\n");
+echo "\\n";
+printf('\n');
+printf("\\n");
+4
+The library function used to find the last occurrence of a character in a string is ? 
+strnstr()
+aststr()
+strrchr()
+strstr()
+3
+Which of the following function is used to find the first occurrence of a given string in another string ?
+strchr()
+strrchr()
+strstr()
+strnset()
+3
+Which of the following function is more appropriate for reading in a multi-word string ?
+printf();
+scanf();
+gets();
+puts();
+3
+Which bitwise operator is suitable for turning off a particular bit in a number ?
+&&
+&
+||
+!
+2	
+Which bitwise operator is suitable for turning on a particular bit in a number ?
+&&
+&
+||
+|
+4
+Which data type is most suitable for storing a number 65000 in a 32-bit system ?
+short
+int
+long
+double
+1
+The format identifier ‘%c’ is also used for _____ data type ?
+char
+int
+float
+double
+1
+Which expression has to be present in the following? exp1 ? exp2 : exp3; ? 
+exp1 
+exp2
+exp3
+All
+4
+Which among the following is odd one out?
+printf
+fprintf
+putchar
+scanf
+4
+For a typical program, the input is taken using ? 
+scanf
+Files
+Command-line
+None
+4
+The value of EOF is_____.
+-1
+0
+1
+10
+1
+C99 standard guarantees uniqueness of ____ characters for internal names.
+31
+63
+12
+14
+2
+Which of the following cannot be a variable name in C?
+Volatile
+True
+friend
+export
+1

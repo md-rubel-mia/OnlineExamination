@@ -1,0 +1,320 @@
+Java was first developed in ?
+1990
+1991
+1993
+1996
+2
+10
+10
+The old name of Java was ?
+J language
+oak
+oct
+None of above
+2
+10
+10
+Which of the following feature is not supported by java ?
+Multithreading
+Reflection
+Operator Overloading
+Garbage Collection
+3
+10
+10
+Which of the following is not keyword in java ?
+null
+import
+volatile
+package
+1
+10
+10
+What is the full form of JDK ?
+Java Data Kit
+Java Defination Kit
+Java Development Kit
+Java Design Kit
+3
+10
+10
+Which command is used to compile a java program ?
+javac
+java
+javad
+javadoc
+1
+10
+10
+What is the full form of JVM
+Java Virtual Machine
+Java Variable Machine
+Java Virtual Mechanism
+Java Variable Mechanism
+1
+10
+10
+What is the full form of ADT ?
+Abstract Data Type
+Abstract Development tool
+Abstract Design Tool
+Advance Development Tool
+1
+10
+10
+The expected signature of the main method is public static void main(). What happens if we make a mistake and forget to put the static keyword ?
+The JVM issues an error saying that main method should be declared static
+The compiler issues a warning saying that main method should be declared static and adds it automati
+The JVM successfully invokes the main method
+The JVM fails at runtime with NoSuchMethodError
+4
+10
+10
+What does the AWT stands for ?
+Abstract Windowing toolkit
+A web toolkit
+Application with types
+Absolutly wonderfull toolkit
+1
+10
+10
+Which of these stream contains the classes which can work on character stream?
+InputStream
+OutputStream
+Character Stream
+All of the mentioned
+3
+10
+10
+Which of these class is used to read characters in a file?
+FileReader
+FileWriter
+FileInputStream
+InputStreamReader
+1
+10
+10
+Which of these method of FileReader class is used to read characters from a file?
+read()
+scanf()
+get()
+getInteger()
+1
+10
+10
+Which of these class can be used to implement input stream that uses a character array as the source?
+BufferedReader
+FileReader
+CharArrayReader
+FileArrayReader
+3
+10
+10
+Which of these is a method to clear all the data present in output buffers?
+clear()
+flush()
+fflush()
+close()
+2
+10
+10
+Which of these classes can return more than one character to be returned to input stream?
+BufferedReader
+Bufferedwriter
+PushbachReader
+CharArrayReader
+3
+10
+10
+Which of these packages contain classes and interfaces used for input & output operations of a program?
+java.util
+java.lang
+java.io
+All of the mentioned
+3
+10
+10
+Which of these class is not a member class of java.io package?
+String
+StringReader
+Writer
+File
+1
+10
+10
+Which of these interface is not a member of java.io package?
+DataInput
+ObjectInput
+ObjectFilter
+FileFilter
+3
+10
+10
+Which of these class is not related to input and output stream in terms of functioning?
+File
+Writer
+InputStream
+Reader
+1
+10
+10
+which of the following is the smallest integer data type ?
+int
+long
+byte
+short
+3
+10
+10
+which of the following is not a primitive data type.
+byte
+short
+enum
+int
+3
+10
+10
+which value can not store character data type.
+Digit
+Special character
+String
+Letter
+4
+10
+10
+which of the following data types comes under floating data types ?
+byte
+int
+float
+long
+3
+10
+10
+Range of byte data type is ?
+-128 to 255
+-128 to 256
+-128 to 127
+-127 to 128
+3
+10
+10
+In order to fetch stream of data from network or file, following data type used ?
+double
+char
+int
+byte
+4
+10
+10
+what is size of integer in java programming.
+4 bytes
+5 bytes
+2 bytes
+8 bytes
+1
+10
+10
+How many byte will byte data type take in java ?
+1
+2
+3
+4
+1
+10
+10
+which data type can store  64 bit value ?
+double
+int
+long
+float
+1
+10
+10
+Short data type has a minimum value ofÖÖÖ.. ?
+-32767
+-2,147,483,648
+-32768
+-127
+3
+10
+10
+String is an________
+class
+Variable
+Array
+Data type
+1
+10
+10
+import myLibrary.*; public class ShowSomeClass { // code for the class... } What is the name of the java file containing this program?
+myLibrary.java
+ShowSomeClass.java
+howSomeClass
+showSomeClass.class
+2
+10
+10
+Consider the following code snippet String river = new String('Columbia‚Äù); System.out.println(river.length()); What is printed?
+6
+7
+8
+river
+3
+10
+10
+If s = "text", what is the value returned by s.length()?
+4
+5
+True
+False
+1
+10
+10
+What is the difference between a TextArea and a TextField?
+A TextArea can handle multiple lines of text
+A textarea can be used for output
+TextArea is not a class
+TextAreas are used for displaying graphics
+1
+10
+10
+Given the following code fragment: int A[]; int i = 0; A = new int A[4]; while (i < 4) { A[i] = 10; i = i + 1; } What is the value of A[3]?
+0
+3
+10
+unknown
+3
+10
+10
+Given the following statement: huey.setDouble(8.0*32.2+1.0); What must be the data type of huey?
+Double Field
+Text Field
+Int field
+Double
+1
+10
+10
+A compound statement is:
+A collection of one or more statements enclosed in braces
+A statement involving if and else
+A way of declaring variables
+a way of setting the value of a variable
+1
+10
+10
+Which of these method of String class is used to obtain character at specified index?
+char()
+Charat()
+charat()
+charAt()
+4
+10
+10
+Which of these method of String class can be used to test to strings for equality?
+isequal()
+isequals()
+equal()
+equals()
+4
+10
+10

@@ -1,0 +1,24 @@
+dsafadfdasf
+asdfasdfdasf
+afdsfasf
+adfdasfasdfa
+afafdaf
+1
+C program start executing from ? 
+here()
+main()
+start()
+begin()
+2
+In c programming ++ is __ operator ? 
+increment 
+decrement 
+assigning 
+overloading
+1
+In c programming array can be ? 
+single
+double 
+multidimensional
+all
+4
